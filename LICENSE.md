@@ -1,7 +1,7 @@
 
 MIT License
 
-Droit d'auteur (c) [année] [nom du titulaire du droit d'auteur]
+Droit d'auteur (c) 2024 Baptiste Longuepee
 
 Par la présente, il est permis, gratuitement, à toute personne obtenant une copie
 de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter
