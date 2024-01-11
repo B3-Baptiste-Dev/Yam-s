@@ -50,7 +50,7 @@ Démarrez le serveur de développement :
 npm start
 ```
 
-L'application devrait maintenant fonctionner sur [http://localhost:3000](http://localhost:3000).
+L'application devrait maintenant fonctionner sur [http://localhost:5173](http://localhost:5173).
 
 ## Utilisation
 
